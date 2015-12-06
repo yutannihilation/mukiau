@@ -21,7 +21,7 @@ devtools::install_github("yutannihilation/mukiau")
 
 ```r
 library(mukiau)
-mukiau("なぜあなたはCP932などを使うのですか？")
+mukiau("なぜあなたはCP932などを使うのですか？", wrap_width = 15, force_wrap = TRUE)
 ```
 
 ![](example.jpg)
