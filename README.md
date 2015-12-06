@@ -11,6 +11,8 @@ Thanks @teraminagi(a.k.a. 大仏様), you are always shiny and give us courage t
 
 ### Installation
 
+**NOTE: You need to install the dev version of ggplot2 beforehand **
+
 ```r
 devtools::install_github("yutannihilation/mukiau")
 ```
