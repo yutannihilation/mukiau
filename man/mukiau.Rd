@@ -4,7 +4,7 @@
 \name{mukiau}
 \alias{mukiau}
 \alias{mukiau-package}
-\title{Mukiau - Face Against the Dark}
+\title{Mukiau - Face the Dark}
 \usage{
 mukiau(spell = "Why are you using S-JIS?", wrap_width = 25,
   force_wrap = FALSE, size = 12, fontface = "bold", family = "sans",

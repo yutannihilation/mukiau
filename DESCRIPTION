@@ -1,6 +1,6 @@
 Package: mukiau
 Type: Package
-Title: Mukiau - Face Against the Dark
+Title: Mukiau - Face the Dark
 Version: 0.1
 Date: 2015-12-06
 Authors@R: person("Hiroaki", "Yutani", , "yutani.ini@gmail.com", c("aut", "cre"))

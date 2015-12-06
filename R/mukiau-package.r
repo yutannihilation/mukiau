@@ -1,4 +1,4 @@
-#' Mukiau - Face Against the Dark
+#' Mukiau - Face the Dark
 #'
 #' Daibutsu bless you.
 #'
