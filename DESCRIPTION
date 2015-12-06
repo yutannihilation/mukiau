@@ -1,0 +1,15 @@
+Package: mukiau
+Type: Package
+Title: Mukiau - Face Against the Dark
+Version: 0.1
+Date: 2015-12-06
+Authors@R: person("Hiroaki", "Yutani", , "yutani.ini@gmail.com", c("aut", "cre"))
+Description: Daibutsu bless you!
+Imports:
+  ggplot2 (>= 1.0.1.9003),
+  stringi,
+  jpeg
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Encoding: UTF-8
