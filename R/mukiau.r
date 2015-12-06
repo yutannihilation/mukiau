@@ -25,7 +25,7 @@ mukiau <- function(spell = "Why are you using S-JIS?",
   spell <- if(force_wrap) {
     len <- stringr::str_length(spell)
     idx <- seq(0, len, wrap_width)
-    paste(stringr::str_sub(spell, start = idx, end = c(idx[-1], len)),
+    paste(stringr::str_sub(spell, start = idx, end = c(idx[-1] - 1, len)),
           collapse = "\n")
   } else {
     stringr::str_wrap(spell, width = wrap_width)
