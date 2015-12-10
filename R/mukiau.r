@@ -13,7 +13,7 @@
 #' # break words
 #' mukiau(wrap_width = 10, force_wrap = TRUE)
 #'
-#' mukiau("\x82\xc8\x82\xba\x82\xa0\x82\xc8\x82\xbd\x82\xcd\x43\x50\x39\x33\x32\x82\xc8\x82\xc7\x82\xf0\x8e\x67\x82\xa4\x82\xcc\x82\xc5\x82\xb7\x82\xa9\x81\x48", wrap_width = 10, force_wrap = TRUE)
+#' mukiau("\\u306a\\u305c\\u3042\\u306a\\u305f\\u306fCP932\\u306a\\u3069\\u3092\\u4f7f\\u3046\\u306e\\u3067\\u3059\\u304b\\uff1f", wrap_width = 10, force_wrap = TRUE)
 #'
 #' @export
 mukiau <- function(spell = "Why are you using S-JIS?",
